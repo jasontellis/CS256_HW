@@ -1,4 +1,5 @@
 import os  # JT+
+import time, datetime #JT+
 import random
 
 from pyevolve import Consts
@@ -13,12 +14,11 @@ PIL_SUPPORT = None
 
 try:
     from PIL import Image, ImageFont, ImageDraw
-
     PIL_SUPPORT = True
 except:
     PIL_SUPPORT = False
 
-cm = []
+distanceMatrix = []
 coords = []
 # CITIES = 100
 CITIES = 48  # JT+
@@ -39,6 +39,7 @@ def cartesian_matrix(coords):
         for j, (x2, y2) in enumerate(coords):
             dx, dy = x1 - x2, y1 - y2
             dist = sqrt(dx * dx + dy * dy)
+
             matrix[i, j] = dist
     return matrix
 
@@ -51,6 +52,44 @@ def tour_length(matrix, tour):
         j = (i + 1) % CITIES
         total += matrix[t[i], t[j]]
     return total
+
+
+def write_tour_to_text_file(coords, tour, distanceMatrix):
+    """
+    Writes output of TSP to a file
+
+    :param coords: Co-ordinates of the city
+    :param tour: Sequence of cities to visit
+    :param textFileName: Name of file to write output to
+
+    :return: None
+    """
+
+    textFileName = "Tour"
+    tempTimestamp = time.time()
+    timestamp = datetime.datetime.fromtimestamp(tempTimestamp).strftime('%Y-%m-%d_%H%M%S')
+    textFileName +=  timestamp
+
+
+    with open(textFileName, 'w') as fileHandle:
+        fileHandle.write("TOUR_SECTION\n")
+        distance = 0.0
+
+        num_cities = len(tour)
+        for i in range(num_cities):
+            j = (i + 1) % num_cities
+            city_i = tour[i]
+            city_j = tour[j]
+            currDistance = distanceMatrix[( city_i, city_j)]
+            print( "%i,%i,%f\n" % ( city_i, city_j, currDistance))
+            distance += currDistance
+            fileHandle.write(str(city_i) + "\n")
+            fileHandle.write(str(city_j) + "\n")
+
+    print("The distance of shortest path is %f" % tour_length(distanceMatrix,tour))
+    print "The plot was written to %s" % (textFileName)
+
+
 
 
 def write_tour_to_img(coords, tour, img_file):
@@ -121,17 +160,18 @@ def readCityCoordinatesFromFile(fileName="/Users/jasontellis/Google Drive/cs256/
 
 
 def main_run():
-    global cm, coords, WIDTH, HEIGHT
+    global distanceMatrix, coords, WIDTH, HEIGHT
 
     # coords = [(random.randint(0, WIDTH), random.randint(0, HEIGHT))
     #               for i in xrange(CITIES)]  #JT-
 
     coords = readCityCoordinatesFromFile()  # JT+
 
-    cm = cartesian_matrix(coords)
+    # distanceMatrix = cartesian_matrix(coords)#JT-
+    distanceMatrix = cartesian_matrix(coords)  # JT+
     genome = G1DList.G1DList(len(coords))
 
-    genome.evaluator.set(lambda chromosome: tour_length(cm, chromosome))
+    genome.evaluator.set(lambda chromosome: tour_length(distanceMatrix, chromosome))
     genome.crossover.set(Crossovers.G1DListCrossoverEdge)
     genome.initializator.set(G1DListTSPInitializator)
 
@@ -147,6 +187,7 @@ def main_run():
 
     if PIL_SUPPORT:
         write_tour_to_img(coords, best, "tsp_result.png")
+        write_tour_to_text_file(coords,best, distanceMatrix)
     else:
         print "No PIL detected, cannot plot the graph !"
 

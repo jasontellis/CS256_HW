@@ -5,5 +5,8 @@
     <orderEntry type="jdk" jdkName="Python 2.7.13 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="assignment1" />
+    <orderEntry type="module" module-name="assignment2" />
+    <orderEntry type="module" module-name="assignment3" />
+    <orderEntry type="module" module-name="assignment3" />
   </component>
 </module>

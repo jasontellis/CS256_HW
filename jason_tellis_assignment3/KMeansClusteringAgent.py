@@ -40,7 +40,7 @@ class Cluster:
         return distance
 
     def reComputeCentroid(self):
-        self.centroid = self.updatedCentroid / len(self.members)  # Divide vector sum by length of memebers to get mean
+        self.centroid = self.updatedCentroid / len(self.members)  # Divide vector sum by length of members to get mean
         self.members = []
         self.sse = 0
         self.updatedCentroid = np.zeros(len(self.centroid))

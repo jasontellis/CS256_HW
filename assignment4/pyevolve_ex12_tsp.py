@@ -17,7 +17,7 @@ try:
 except:
     PIL_SUPPORT = False
 
-cm = []
+distanceMatrix = []
 coords = []
 CITIES = 100
 WIDTH = 1024
@@ -84,7 +84,7 @@ def G1DListTSPInitializator(genome, **args):
 
 
 def main_run():
-    global cm, coords, WIDTH, HEIGHT
+    global distanceMatrix, coords, WIDTH, HEIGHT
 
     coords = [(random.randint(0, WIDTH), random.randint(0, HEIGHT))
               for i in xrange(CITIES)]

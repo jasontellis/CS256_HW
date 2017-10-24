@@ -16,7 +16,7 @@ https://matplotlib.org/users/pyplot_tutorial.html
 import csv
 import os
 import operator
-import matplotlib.pyplot as plt
+
 import numpy as np
 
 '''

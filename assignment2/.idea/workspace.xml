@@ -2,19 +2,357 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/test/jason_tellis_job_agent.py" line="278" />
-    <bookmark url="file://$PROJECT_DIR$/../assignment3/DatasetBuilder.py" line="18" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="447b3e09-45a4-4086-958d-7d59d5985078" name="Default" comment="Working Version of Image Classifier">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/assignment2.iml" afterPath="$PROJECT_DIR$/.idea/assignment2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Analysis.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Analysis.synctex.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/analysis/Accuracy Plot for KNN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/analysis/Accuracy vs K Box &amp; Whisker Plot k=100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/analysis/Analysis.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/analysis/accuracy_plot_k=20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Afghanistan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Albania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Algeria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Andorra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Angola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Antigua &amp; Barbuda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Argentina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Armenia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Australia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Austria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Azerbaijan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bahamas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bahrain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bangladesh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Barbados.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Belarus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Belgium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Belize.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Benin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bermuda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bhutan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bolivia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bosnia &amp; Herzegovina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Botswana.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Brazil.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Brunei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Bulgaria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Burkina Faso.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Burundi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cambodia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cameroon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Canada.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cape Verde.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cayman Islands.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Central African Republic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Chad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Chile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/China.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Colombia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Comoros.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cook Islands.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Costa Rica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Croatia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cuba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Cyprus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Czech Republic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Democratic Republic of Congo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Denmark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Djibouti.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Dominica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Dominican Republic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/East Timor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Ecuador.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Egypt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/El Salvador.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/England.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Equatorial Guinea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Eritrea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Estonia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Ethiopia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Fiji.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Finland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Samoa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Saudi Arabia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Scotland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Senegal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Serbia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Singapore.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Slovakia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Slovenia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Solomon Islands.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Somalia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of South Africa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of South Korea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Spain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Sri Lanka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Sudan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Sweden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Switzerland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Syria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Taiwan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Tajikistan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Tanzania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Thailand.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of The Gambia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Togo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Tonga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Trinidad &amp; Tobago.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Tunisia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Turkey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Turkmenistan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Tuvalu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Uganda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Ukraine.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of United Arab Emirates.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of United Kingdom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of United States.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Uruguay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Uzbekistan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Vanuatu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Venezuela.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Vietnam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Wales.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Yemen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Flag of Zimbabwe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/France.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Gabon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Georgia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Germany.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Ghana.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Greece.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Greenland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Grenada.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Guam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Guatemala.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Guinea-Bissau.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Guinea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Guyana .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Haiti.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Honduras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Hong Kong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Hungary.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Iceland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/India.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Indonesia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Iran .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Iraq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Ireland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Israel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Italy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Ivory Coast.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Jamaica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Japan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Jordan .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Kazakhstan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Kenya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Kiribati.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Kuwait.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Kyrgyzstan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Laos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Latvia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Lebanon .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Lesotho.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Liberia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Libya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Liechtenstein.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Lithuania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Luxembourg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Macedonia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Madagascar .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Malawi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Malaysia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Maldives.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mali.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Malta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mauritania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mauritius.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mexico.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Moldova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Monaco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mongolia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Montenegro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Morocco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Mozambique.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Myanmar (Burma).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Namibia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Nauru.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Nepal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Netherlands.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/New Caledonia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/New Zealand.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Nicaragua.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Niger.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Nigeria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/North Korea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Norway.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Oman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Pakistan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Palau.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Palestine.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Panama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Papau New Guinea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Paraguay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Peru.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Philippines.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Poland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Portugal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Puerto Rico.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Qatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Republic of Congo .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Romania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Russia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Rwanda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Saint Kitts &amp; Nevis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Saint Lucia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Saint Vincent and the Grenadines.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/San Marino .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Sao Tome and Principe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Seychelles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Sierra Leone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/South Sudan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Suriname.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Swaziland.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/flags/Zambia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/01-corporate-headshot-photo-130405-9660.JPG-1500px.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/2016-01-22_0011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/Headshot-session-with-Dancer-Andrea-from-Mystic-India-in-brooklyn-photo-studio-with-greg-j-konop-photography_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/IMG_9648.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/Professional-Headshots-Modeling.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (1).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (2).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (3).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (4).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (5).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (6).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (7).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download (uj1).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/download.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/downloamd (7).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (1).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (10).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (11).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (12).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (13).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (14).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (15).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (16).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (17).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (18).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (19).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (20).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (21).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (22).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (23).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (24).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (26).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (27).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (28).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (29).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (3).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (30).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (31).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (32).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (33).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (34).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (35).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (4).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (5).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (6).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (7).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (8).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images (9).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/images.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/san-francisco-palo-alto-mountain-view-headshot-headshots-photographer-studio-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/headshot/shilpa-ely-06-1203086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (1).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (10).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (11).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (12).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (13).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (14).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (15).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (16).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (17).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (18).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (19).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (2).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (3).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (4).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (5).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (6).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (7).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (8).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download (9).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/download.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (1).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (10).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (11).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (12).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (13).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (14).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (15).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (16).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (17).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (18).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (19).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (2).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (20).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (21).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (22).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (23).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (24).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (25).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (26).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (27).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (28).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (29).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (3).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (30).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (4).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (5).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (6).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (7).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (8).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images (9).jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/landscape/images.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/DistanceMatrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/jason_tellis_hw4_greedy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/.idea/assignment3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/AccuracyPlotter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Analysis.aux" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Analysis.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/CrossFoldValidator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/DatasetBuilder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/FlagClusteringEnvironment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/FlagLookUpTableBuilder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/HierarchicalClusteringAgent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/HierarchicalClusteringEnvironment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/ImageClassifierAgent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/ImageClassifierEnvironment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/ImageVectorExtractor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/KMeansClusteringAgent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/KMeansClusteringEnvironment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/LookUpTableRow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/Trainer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/analysis/Analysis.tex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jason_tellis_art_curator/readme.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../assignment4/tsp_result.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment1/jason_tellis_knn.py" afterPath="$PROJECT_DIR$/../assignment1/jason_tellis_knn.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/jason_tellis_job_agent.py" afterPath="$PROJECT_DIR$/test/jason_tellis_job_agent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/jason_tellis_job_agent1.py" afterPath="$PROJECT_DIR$/test/jason_tellis_job_agent1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/working/jason_tellis_job_agent.py" afterPath="$PROJECT_DIR$/working/jason_tellis_job_agent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/working2/jason_tellis_job_agent.py" afterPath="$PROJECT_DIR$/working2/jason_tellis_job_agent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/working2/jason_tellis_job_environment.py" afterPath="$PROJECT_DIR$/working2/jason_tellis_job_environment.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py" afterPath="$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment4/.idea/assignment4.iml" afterPath="$PROJECT_DIR$/../assignment4/.idea/assignment4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment4/.idea/modules.xml" afterPath="$PROJECT_DIR$/../assignment4/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment4/jason_pyevolve.py" afterPath="$PROJECT_DIR$/../assignment4/jason_pyevolve.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../assignment4/pyevolve_ex12_tsp.py" afterPath="$PROJECT_DIR$/../assignment4/pyevolve_ex12_tsp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jason_tellis_assignment3/KMeansClusteringAgent.py" afterPath="$PROJECT_DIR$/../jason_tellis_assignment3/KMeansClusteringAgent.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,47 +363,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jason_tellis_cli.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../assignment3/jason_tellis_cli.py">
+      <file leaf-file-name="jason_tellis_job_agent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/working/jason_tellis_job_agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HierarchicalClusteringAgent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="425">
+              <caret line="545" column="25" lean-forward="false" selection-start-line="545" selection-start-column="25" selection-end-line="545" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../assignment3/Main.py">
+      <file leaf-file-name="jason_tellis_knn.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../assignment1/jason_tellis_knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccuracyPlotter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../assignment3/AccuracyPlotter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#326#336#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,7 +415,7 @@
         <option value="Jason Tellis" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../assignment3" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,14 +458,14 @@
         <option value="$PROJECT_DIR$/../assignment3/KMeansClusteringAgent.py" />
         <option value="$PROJECT_DIR$/../assignment3/jason_tellis_cli.py" />
         <option value="$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py" />
+        <option value="$PROJECT_DIR$/../assignment1/jason_tellis_knn.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="625" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="815" />
-    <option name="height" value="872" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -169,14 +483,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="assignment2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="assignment2" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -191,10 +500,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -352,26 +662,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2167382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7164706" sideWeight="0.2611111" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7164179" sideWeight="0.2611111" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7164706" sideWeight="0.73888886" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21111111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.4722222" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39764705" sideWeight="0.78680557" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.4722222" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -401,6 +711,10 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../assignment3" />
+    </ignored-roots>
     <MESSAGE value="Working Version of Job Search Agent without clustering" />
     <MESSAGE value="Working Version of Image Classifier" />
     <option name="LAST_COMMIT_MESSAGE" value="Working Version of Image Classifier" />
@@ -547,19 +861,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/working/jason_tellis_job_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3717">
-          <caret line="541" column="36" lean-forward="false" selection-start-line="541" selection-start-column="7" selection-end-line="541" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/working/jason_tellis_job_environment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-113">
           <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,31 +872,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../assignment3/download.jpeg" />
     <entry file="file://$PROJECT_DIR$/../assignment3/landscapes/The-narrow-road.jpg" />
     <entry file="file://$PROJECT_DIR$/../assignment3/landscapes/Tuscany-fields.jpg" />
-    <entry file="file://$PROJECT_DIR$/../assignment3/headshot/san-francisco-palo-alto-mountain-view-headshot-headshots-photographer-studio-5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/headshot/Professional-Headshots-Modeling.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../assignment3/headshot/san-francisco-palo-alto-mountain-view-headshot-headshots-photographer-studio-5.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/headshot/Professional-Headshots-Modeling.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flag.py" />
     <entry file="file://$PROJECT_DIR$/jason_tellis_job_agent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -606,204 +895,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Afghanistan.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Albania.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Algeria.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Andorra.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Angola.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Zambia.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Swaziland.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Suriname.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/Folds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/FlagsVectorExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Afghanistan.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Albania.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Algeria.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Andorra.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Angola.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Zambia.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Swaziland.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/flags/Suriname.jpg" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/Folds.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/FlagsVectorExtractor.py" />
     <entry file="file://$PROJECT_DIR$/jason_tellis_job_environment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/FlagClusteringEnvironment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="58" lean-forward="true" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/FlagLookUpTableBuilder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/ImageClassifierEnvironment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/ImageVectorExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/LookUpTableRow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/Trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="88" column="24" lean-forward="false" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../assignment3/FlagClusteringEnvironment.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/FlagLookUpTableBuilder.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/ImageClassifierEnvironment.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/ImageVectorExtractor.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/LookUpTableRow.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/Trainer.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-141">
           <caret line="1506" column="4" lean-forward="false" selection-start-line="1506" selection-start-column="4" selection-end-line="1506" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/DatasetBuilder.py">
+    <entry file="file://$PROJECT_DIR$/../assignment3/DatasetBuilder.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/ImageClassifierAgent.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/CrossFoldValidator.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/KMeansClusteringAgent.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/jason_tellis_cli.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/Main.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/AccuracyPlotter.py" />
+    <entry file="file://$PROJECT_DIR$/working/jason_tellis_job_agent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="425">
+          <caret line="545" column="25" lean-forward="false" selection-start-line="545" selection-start-column="25" selection-end-line="545" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../assignment1/jason_tellis_knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/ImageClassifierAgent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/CrossFoldValidator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/KMeansClusteringAgent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="121" column="16" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="121" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/jason_tellis_cli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/HierarchicalClusteringAgent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/AccuracyPlotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#326#336#0" expanded="true" />
           </folding>
         </state>
       </provider>
